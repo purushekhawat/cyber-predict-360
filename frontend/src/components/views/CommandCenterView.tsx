@@ -313,6 +313,7 @@ export default function CommandCenterView({ onNavigateToPrediction, onNavigateTo
                 </tbody>
               </table>
             </div>
+          </div>
         </div>
 
         {/* Right Column (Enhanced Intelligence Alerts Feed & Stack Status) */}
