@@ -1,0 +1,100 @@
+version: '3.8'
+
+services:
+  # Database Service: PostgreSQL + PostGIS extension
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: cyber_predict_db
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-cyberadmin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-cyberpassword_dev_123}
+      POSTGRES_DB: ${POSTGRES_DB:-cyberpredict_db}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - cyber_predict_net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-cyberadmin} -d ${POSTGRES_DB:-cyberpredict_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Graph Database: Neo4j
+  neo4j:
+    image: neo4j:5.18-community
+    container_name: cyber_predict_neo4j
+    restart: always
+    environment:
+      NEO4J_AUTH: ${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-cyberpassword_dev_123}
+      NEO4J_PLUGINS: '["apoc"]'
+    ports:
+      - "7474:7474" # HTTP Browser
+      - "7687:7687" # Bolt protocol
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - cyber_predict_net
+
+  # Backend Service: FastAPI
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cyber_predict_backend
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-cyberadmin}:${POSTGRES_PASSWORD:-cyberpassword_dev_123}@db:5432/${POSTGRES_DB:-cyberpredict_db}
+      - ENVIRONMENT=${ENVIRONMENT:-development}
+      - SECRET_KEY=${SECRET_KEY:-dev_secret_key_cyberpredict_360_sih_2026}
+      - ML_SERVICE_URL=http://ml-service:8001
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - cyber_predict_net
+
+  # ML Service: FastAPI lightweight inference engine
+  ml-service:
+    build:
+      context: ./ml_service
+      dockerfile: Dockerfile
+    container_name: cyber_predict_ml_service
+    restart: always
+    environment:
+      - ENVIRONMENT=${ENVIRONMENT:-development}
+    ports:
+      - "${ML_SERVICE_PORT:-8001}:8001"
+    networks:
+      - cyber_predict_net
+
+  # Frontend Service: Next.js + TypeScript
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cyber_predict_frontend
+    restart: always
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+      - NEXT_PUBLIC_ML_API_URL=http://localhost:8001
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+      - ml-service
+    networks:
+      - cyber_predict_net
+
+networks:
+  cyber_predict_net:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  neo4j_data:

@@ -1,0 +1,20 @@
+{
+  "dataset_name": "CYBER-PREDICT 360 Synthetic Cybercrime Dataset",
+  "generated_at": "2026-09-03T19:20:13.833061Z",
+  "random_seed": 42,
+  "counts": {
+    "atms": 120,
+    "accounts": 440,
+    "complaints": 600
+  },
+  "geographic_hubs": [
+    "Delhi_NCR",
+    "Mumbai_Metro",
+    "Bengaluru_Tech",
+    "Hyderabad_Cyber",
+    "Jamtara_Deoghar",
+    "Mewat_Region",
+    "Kolkata_East"
+  ],
+  "synthetic_notice": "100% Privacy-Preserving Synthetic Data for SIH Prototype PS ID 26184."
+}

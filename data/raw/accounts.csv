@@ -1,0 +1,441 @@
+account_number,account_type,bank_name,holder_name,primary_hub,risk_score
+VIC_ACC_0001,VICTIM,Canara Bank,Victim User 1,Delhi_NCR,0.129
+VIC_ACC_0002,VICTIM,Union Bank of India,Victim User 2,Delhi_NCR,0.071
+VIC_ACC_0003,VICTIM,Canara Bank,Victim User 3,Mewat_Region,0.135
+VIC_ACC_0004,VICTIM,Union Bank of India,Victim User 4,Mewat_Region,0.031
+VIC_ACC_0005,VICTIM,ICICI Bank,Victim User 5,Mewat_Region,0.083
+VIC_ACC_0006,VICTIM,Punjab National Bank,Victim User 6,Jamtara_Deoghar,0.123
+VIC_ACC_0007,VICTIM,Union Bank of India,Victim User 7,Hyderabad_Cyber,0.071
+VIC_ACC_0008,VICTIM,Punjab National Bank,Victim User 8,Bengaluru_Tech,0.129
+VIC_ACC_0009,VICTIM,HDFC Bank,Victim User 9,Bengaluru_Tech,0.133
+VIC_ACC_0010,VICTIM,Axis Bank,Victim User 10,Kolkata_East,0.075
+VIC_ACC_0011,VICTIM,Bank of Baroda,Victim User 11,Bengaluru_Tech,0.014
+VIC_ACC_0012,VICTIM,Canara Bank,Victim User 12,Mumbai_Metro,0.078
+VIC_ACC_0013,VICTIM,Canara Bank,Victim User 13,Kolkata_East,0.046
+VIC_ACC_0014,VICTIM,Punjab National Bank,Victim User 14,Jamtara_Deoghar,0.108
+VIC_ACC_0015,VICTIM,Punjab National Bank,Victim User 15,Jamtara_Deoghar,0.011
+VIC_ACC_0016,VICTIM,Axis Bank,Victim User 16,Delhi_NCR,0.044
+VIC_ACC_0017,VICTIM,Bank of Baroda,Victim User 17,Hyderabad_Cyber,0.088
+VIC_ACC_0018,VICTIM,Axis Bank,Victim User 18,Mewat_Region,0.077
+VIC_ACC_0019,VICTIM,Union Bank of India,Victim User 19,Hyderabad_Cyber,0.121
+VIC_ACC_0020,VICTIM,HDFC Bank,Victim User 20,Bengaluru_Tech,0.041
+VIC_ACC_0021,VICTIM,Axis Bank,Victim User 21,Bengaluru_Tech,0.103
+VIC_ACC_0022,VICTIM,Canara Bank,Victim User 22,Hyderabad_Cyber,0.087
+VIC_ACC_0023,VICTIM,Canara Bank,Victim User 23,Hyderabad_Cyber,0.15
+VIC_ACC_0024,VICTIM,Canara Bank,Victim User 24,Bengaluru_Tech,0.108
+VIC_ACC_0025,VICTIM,Punjab National Bank,Victim User 25,Bengaluru_Tech,0.045
+VIC_ACC_0026,VICTIM,HDFC Bank,Victim User 26,Mewat_Region,0.037
+VIC_ACC_0027,VICTIM,HDFC Bank,Victim User 27,Mewat_Region,0.085
+VIC_ACC_0028,VICTIM,ICICI Bank,Victim User 28,Mumbai_Metro,0.04
+VIC_ACC_0029,VICTIM,Union Bank of India,Victim User 29,Bengaluru_Tech,0.111
+VIC_ACC_0030,VICTIM,Punjab National Bank,Victim User 30,Delhi_NCR,0.127
+VIC_ACC_0031,VICTIM,Punjab National Bank,Victim User 31,Mumbai_Metro,0.061
+VIC_ACC_0032,VICTIM,Punjab National Bank,Victim User 32,Delhi_NCR,0.109
+VIC_ACC_0033,VICTIM,ICICI Bank,Victim User 33,Bengaluru_Tech,0.016
+VIC_ACC_0034,VICTIM,State Bank of India,Victim User 34,Jamtara_Deoghar,0.051
+VIC_ACC_0035,VICTIM,ICICI Bank,Victim User 35,Mewat_Region,0.132
+VIC_ACC_0036,VICTIM,Union Bank of India,Victim User 36,Delhi_NCR,0.132
+VIC_ACC_0037,VICTIM,Punjab National Bank,Victim User 37,Hyderabad_Cyber,0.077
+VIC_ACC_0038,VICTIM,Canara Bank,Victim User 38,Mumbai_Metro,0.145
+VIC_ACC_0039,VICTIM,Punjab National Bank,Victim User 39,Kolkata_East,0.077
+VIC_ACC_0040,VICTIM,HDFC Bank,Victim User 40,Hyderabad_Cyber,0.079
+VIC_ACC_0041,VICTIM,State Bank of India,Victim User 41,Mumbai_Metro,0.031
+VIC_ACC_0042,VICTIM,Punjab National Bank,Victim User 42,Delhi_NCR,0.149
+VIC_ACC_0043,VICTIM,HDFC Bank,Victim User 43,Jamtara_Deoghar,0.117
+VIC_ACC_0044,VICTIM,Axis Bank,Victim User 44,Kolkata_East,0.083
+VIC_ACC_0045,VICTIM,Union Bank of India,Victim User 45,Hyderabad_Cyber,0.052
+VIC_ACC_0046,VICTIM,Bank of Baroda,Victim User 46,Bengaluru_Tech,0.09
+VIC_ACC_0047,VICTIM,State Bank of India,Victim User 47,Jamtara_Deoghar,0.144
+VIC_ACC_0048,VICTIM,HDFC Bank,Victim User 48,Kolkata_East,0.039
+VIC_ACC_0049,VICTIM,Axis Bank,Victim User 49,Bengaluru_Tech,0.102
+VIC_ACC_0050,VICTIM,ICICI Bank,Victim User 50,Mumbai_Metro,0.034
+VIC_ACC_0051,VICTIM,HDFC Bank,Victim User 51,Mumbai_Metro,0.01
+VIC_ACC_0052,VICTIM,Union Bank of India,Victim User 52,Mewat_Region,0.093
+VIC_ACC_0053,VICTIM,Punjab National Bank,Victim User 53,Delhi_NCR,0.042
+VIC_ACC_0054,VICTIM,Punjab National Bank,Victim User 54,Mewat_Region,0.13
+VIC_ACC_0055,VICTIM,HDFC Bank,Victim User 55,Mewat_Region,0.043
+VIC_ACC_0056,VICTIM,Punjab National Bank,Victim User 56,Kolkata_East,0.121
+VIC_ACC_0057,VICTIM,Axis Bank,Victim User 57,Hyderabad_Cyber,0.026
+VIC_ACC_0058,VICTIM,Axis Bank,Victim User 58,Mewat_Region,0.031
+VIC_ACC_0059,VICTIM,Punjab National Bank,Victim User 59,Kolkata_East,0.03
+VIC_ACC_0060,VICTIM,State Bank of India,Victim User 60,Mumbai_Metro,0.121
+VIC_ACC_0061,VICTIM,Punjab National Bank,Victim User 61,Hyderabad_Cyber,0.027
+VIC_ACC_0062,VICTIM,Punjab National Bank,Victim User 62,Mewat_Region,0.066
+VIC_ACC_0063,VICTIM,Punjab National Bank,Victim User 63,Jamtara_Deoghar,0.086
+VIC_ACC_0064,VICTIM,Union Bank of India,Victim User 64,Delhi_NCR,0.094
+VIC_ACC_0065,VICTIM,Bank of Baroda,Victim User 65,Mewat_Region,0.055
+VIC_ACC_0066,VICTIM,Punjab National Bank,Victim User 66,Delhi_NCR,0.023
+VIC_ACC_0067,VICTIM,State Bank of India,Victim User 67,Kolkata_East,0.104
+VIC_ACC_0068,VICTIM,Punjab National Bank,Victim User 68,Jamtara_Deoghar,0.016
+VIC_ACC_0069,VICTIM,ICICI Bank,Victim User 69,Hyderabad_Cyber,0.083
+VIC_ACC_0070,VICTIM,Union Bank of India,Victim User 70,Bengaluru_Tech,0.035
+VIC_ACC_0071,VICTIM,Bank of Baroda,Victim User 71,Mewat_Region,0.124
+VIC_ACC_0072,VICTIM,HDFC Bank,Victim User 72,Hyderabad_Cyber,0.059
+VIC_ACC_0073,VICTIM,Canara Bank,Victim User 73,Bengaluru_Tech,0.104
+VIC_ACC_0074,VICTIM,ICICI Bank,Victim User 74,Bengaluru_Tech,0.068
+VIC_ACC_0075,VICTIM,Union Bank of India,Victim User 75,Bengaluru_Tech,0.103
+VIC_ACC_0076,VICTIM,Bank of Baroda,Victim User 76,Kolkata_East,0.116
+VIC_ACC_0077,VICTIM,State Bank of India,Victim User 77,Hyderabad_Cyber,0.022
+VIC_ACC_0078,VICTIM,Punjab National Bank,Victim User 78,Bengaluru_Tech,0.026
+VIC_ACC_0079,VICTIM,Bank of Baroda,Victim User 79,Kolkata_East,0.082
+VIC_ACC_0080,VICTIM,State Bank of India,Victim User 80,Mewat_Region,0.132
+VIC_ACC_0081,VICTIM,Union Bank of India,Victim User 81,Hyderabad_Cyber,0.018
+VIC_ACC_0082,VICTIM,Canara Bank,Victim User 82,Jamtara_Deoghar,0.116
+VIC_ACC_0083,VICTIM,Union Bank of India,Victim User 83,Kolkata_East,0.017
+VIC_ACC_0084,VICTIM,Punjab National Bank,Victim User 84,Jamtara_Deoghar,0.028
+VIC_ACC_0085,VICTIM,Punjab National Bank,Victim User 85,Hyderabad_Cyber,0.133
+VIC_ACC_0086,VICTIM,Union Bank of India,Victim User 86,Delhi_NCR,0.014
+VIC_ACC_0087,VICTIM,Axis Bank,Victim User 87,Mewat_Region,0.032
+VIC_ACC_0088,VICTIM,State Bank of India,Victim User 88,Jamtara_Deoghar,0.067
+VIC_ACC_0089,VICTIM,Axis Bank,Victim User 89,Kolkata_East,0.138
+VIC_ACC_0090,VICTIM,Union Bank of India,Victim User 90,Delhi_NCR,0.101
+VIC_ACC_0091,VICTIM,ICICI Bank,Victim User 91,Hyderabad_Cyber,0.141
+VIC_ACC_0092,VICTIM,Punjab National Bank,Victim User 92,Jamtara_Deoghar,0.109
+VIC_ACC_0093,VICTIM,Bank of Baroda,Victim User 93,Kolkata_East,0.078
+VIC_ACC_0094,VICTIM,Union Bank of India,Victim User 94,Mumbai_Metro,0.074
+VIC_ACC_0095,VICTIM,ICICI Bank,Victim User 95,Hyderabad_Cyber,0.037
+VIC_ACC_0096,VICTIM,ICICI Bank,Victim User 96,Kolkata_East,0.02
+VIC_ACC_0097,VICTIM,Bank of Baroda,Victim User 97,Bengaluru_Tech,0.141
+VIC_ACC_0098,VICTIM,Punjab National Bank,Victim User 98,Kolkata_East,0.01
+VIC_ACC_0099,VICTIM,Punjab National Bank,Victim User 99,Kolkata_East,0.092
+VIC_ACC_0100,VICTIM,Union Bank of India,Victim User 100,Kolkata_East,0.031
+VIC_ACC_0101,VICTIM,Union Bank of India,Victim User 101,Bengaluru_Tech,0.057
+VIC_ACC_0102,VICTIM,Bank of Baroda,Victim User 102,Hyderabad_Cyber,0.141
+VIC_ACC_0103,VICTIM,Axis Bank,Victim User 103,Mewat_Region,0.043
+VIC_ACC_0104,VICTIM,Bank of Baroda,Victim User 104,Mumbai_Metro,0.13
+VIC_ACC_0105,VICTIM,Bank of Baroda,Victim User 105,Delhi_NCR,0.055
+VIC_ACC_0106,VICTIM,Union Bank of India,Victim User 106,Mewat_Region,0.138
+VIC_ACC_0107,VICTIM,Bank of Baroda,Victim User 107,Hyderabad_Cyber,0.148
+VIC_ACC_0108,VICTIM,ICICI Bank,Victim User 108,Hyderabad_Cyber,0.145
+VIC_ACC_0109,VICTIM,ICICI Bank,Victim User 109,Jamtara_Deoghar,0.145
+VIC_ACC_0110,VICTIM,Canara Bank,Victim User 110,Kolkata_East,0.024
+VIC_ACC_0111,VICTIM,Union Bank of India,Victim User 111,Delhi_NCR,0.084
+VIC_ACC_0112,VICTIM,Union Bank of India,Victim User 112,Delhi_NCR,0.111
+VIC_ACC_0113,VICTIM,Bank of Baroda,Victim User 113,Kolkata_East,0.102
+VIC_ACC_0114,VICTIM,ICICI Bank,Victim User 114,Delhi_NCR,0.076
+VIC_ACC_0115,VICTIM,Punjab National Bank,Victim User 115,Bengaluru_Tech,0.097
+VIC_ACC_0116,VICTIM,Bank of Baroda,Victim User 116,Mewat_Region,0.021
+VIC_ACC_0117,VICTIM,Canara Bank,Victim User 117,Kolkata_East,0.104
+VIC_ACC_0118,VICTIM,Bank of Baroda,Victim User 118,Bengaluru_Tech,0.098
+VIC_ACC_0119,VICTIM,Union Bank of India,Victim User 119,Kolkata_East,0.086
+VIC_ACC_0120,VICTIM,HDFC Bank,Victim User 120,Mumbai_Metro,0.098
+VIC_ACC_0121,VICTIM,Punjab National Bank,Victim User 121,Mumbai_Metro,0.115
+VIC_ACC_0122,VICTIM,Bank of Baroda,Victim User 122,Delhi_NCR,0.116
+VIC_ACC_0123,VICTIM,HDFC Bank,Victim User 123,Hyderabad_Cyber,0.033
+VIC_ACC_0124,VICTIM,Punjab National Bank,Victim User 124,Delhi_NCR,0.016
+VIC_ACC_0125,VICTIM,State Bank of India,Victim User 125,Bengaluru_Tech,0.06
+VIC_ACC_0126,VICTIM,Bank of Baroda,Victim User 126,Mumbai_Metro,0.044
+VIC_ACC_0127,VICTIM,Bank of Baroda,Victim User 127,Jamtara_Deoghar,0.105
+VIC_ACC_0128,VICTIM,ICICI Bank,Victim User 128,Mumbai_Metro,0.035
+VIC_ACC_0129,VICTIM,Bank of Baroda,Victim User 129,Jamtara_Deoghar,0.106
+VIC_ACC_0130,VICTIM,Union Bank of India,Victim User 130,Jamtara_Deoghar,0.03
+VIC_ACC_0131,VICTIM,Union Bank of India,Victim User 131,Mewat_Region,0.046
+VIC_ACC_0132,VICTIM,Punjab National Bank,Victim User 132,Mewat_Region,0.011
+VIC_ACC_0133,VICTIM,Union Bank of India,Victim User 133,Bengaluru_Tech,0.105
+VIC_ACC_0134,VICTIM,ICICI Bank,Victim User 134,Delhi_NCR,0.072
+VIC_ACC_0135,VICTIM,Canara Bank,Victim User 135,Jamtara_Deoghar,0.052
+VIC_ACC_0136,VICTIM,Bank of Baroda,Victim User 136,Mewat_Region,0.045
+VIC_ACC_0137,VICTIM,Punjab National Bank,Victim User 137,Mumbai_Metro,0.15
+VIC_ACC_0138,VICTIM,Union Bank of India,Victim User 138,Delhi_NCR,0.043
+VIC_ACC_0139,VICTIM,Canara Bank,Victim User 139,Jamtara_Deoghar,0.051
+VIC_ACC_0140,VICTIM,Punjab National Bank,Victim User 140,Delhi_NCR,0.147
+VIC_ACC_0141,VICTIM,Bank of Baroda,Victim User 141,Bengaluru_Tech,0.011
+VIC_ACC_0142,VICTIM,State Bank of India,Victim User 142,Jamtara_Deoghar,0.114
+VIC_ACC_0143,VICTIM,Punjab National Bank,Victim User 143,Kolkata_East,0.122
+VIC_ACC_0144,VICTIM,Canara Bank,Victim User 144,Mumbai_Metro,0.099
+VIC_ACC_0145,VICTIM,Punjab National Bank,Victim User 145,Mewat_Region,0.116
+VIC_ACC_0146,VICTIM,ICICI Bank,Victim User 146,Mewat_Region,0.024
+VIC_ACC_0147,VICTIM,State Bank of India,Victim User 147,Bengaluru_Tech,0.12
+VIC_ACC_0148,VICTIM,State Bank of India,Victim User 148,Jamtara_Deoghar,0.061
+VIC_ACC_0149,VICTIM,ICICI Bank,Victim User 149,Delhi_NCR,0.137
+VIC_ACC_0150,VICTIM,Canara Bank,Victim User 150,Mewat_Region,0.068
+VIC_ACC_0151,VICTIM,Axis Bank,Victim User 151,Mumbai_Metro,0.12
+VIC_ACC_0152,VICTIM,Canara Bank,Victim User 152,Jamtara_Deoghar,0.08
+VIC_ACC_0153,VICTIM,Punjab National Bank,Victim User 153,Kolkata_East,0.033
+VIC_ACC_0154,VICTIM,Union Bank of India,Victim User 154,Kolkata_East,0.051
+VIC_ACC_0155,VICTIM,Canara Bank,Victim User 155,Kolkata_East,0.026
+VIC_ACC_0156,VICTIM,HDFC Bank,Victim User 156,Mumbai_Metro,0.116
+VIC_ACC_0157,VICTIM,Axis Bank,Victim User 157,Kolkata_East,0.105
+VIC_ACC_0158,VICTIM,Bank of Baroda,Victim User 158,Kolkata_East,0.123
+VIC_ACC_0159,VICTIM,Canara Bank,Victim User 159,Delhi_NCR,0.121
+VIC_ACC_0160,VICTIM,State Bank of India,Victim User 160,Bengaluru_Tech,0.085
+VIC_ACC_0161,VICTIM,Union Bank of India,Victim User 161,Bengaluru_Tech,0.104
+VIC_ACC_0162,VICTIM,Punjab National Bank,Victim User 162,Jamtara_Deoghar,0.063
+VIC_ACC_0163,VICTIM,Canara Bank,Victim User 163,Delhi_NCR,0.104
+VIC_ACC_0164,VICTIM,Union Bank of India,Victim User 164,Delhi_NCR,0.097
+VIC_ACC_0165,VICTIM,Canara Bank,Victim User 165,Jamtara_Deoghar,0.041
+VIC_ACC_0166,VICTIM,HDFC Bank,Victim User 166,Mewat_Region,0.125
+VIC_ACC_0167,VICTIM,Punjab National Bank,Victim User 167,Mewat_Region,0.067
+VIC_ACC_0168,VICTIM,ICICI Bank,Victim User 168,Delhi_NCR,0.142
+VIC_ACC_0169,VICTIM,Punjab National Bank,Victim User 169,Hyderabad_Cyber,0.026
+VIC_ACC_0170,VICTIM,Axis Bank,Victim User 170,Jamtara_Deoghar,0.029
+VIC_ACC_0171,VICTIM,Union Bank of India,Victim User 171,Bengaluru_Tech,0.104
+VIC_ACC_0172,VICTIM,Bank of Baroda,Victim User 172,Jamtara_Deoghar,0.114
+VIC_ACC_0173,VICTIM,ICICI Bank,Victim User 173,Hyderabad_Cyber,0.102
+VIC_ACC_0174,VICTIM,Union Bank of India,Victim User 174,Jamtara_Deoghar,0.067
+VIC_ACC_0175,VICTIM,Punjab National Bank,Victim User 175,Delhi_NCR,0.107
+VIC_ACC_0176,VICTIM,Axis Bank,Victim User 176,Hyderabad_Cyber,0.072
+VIC_ACC_0177,VICTIM,Axis Bank,Victim User 177,Kolkata_East,0.061
+VIC_ACC_0178,VICTIM,Canara Bank,Victim User 178,Jamtara_Deoghar,0.136
+VIC_ACC_0179,VICTIM,Canara Bank,Victim User 179,Delhi_NCR,0.066
+VIC_ACC_0180,VICTIM,Axis Bank,Victim User 180,Delhi_NCR,0.143
+VIC_ACC_0181,VICTIM,Union Bank of India,Victim User 181,Delhi_NCR,0.103
+VIC_ACC_0182,VICTIM,State Bank of India,Victim User 182,Delhi_NCR,0.12
+VIC_ACC_0183,VICTIM,Axis Bank,Victim User 183,Mumbai_Metro,0.12
+VIC_ACC_0184,VICTIM,Axis Bank,Victim User 184,Delhi_NCR,0.126
+VIC_ACC_0185,VICTIM,Axis Bank,Victim User 185,Jamtara_Deoghar,0.04
+VIC_ACC_0186,VICTIM,Axis Bank,Victim User 186,Bengaluru_Tech,0.118
+VIC_ACC_0187,VICTIM,State Bank of India,Victim User 187,Bengaluru_Tech,0.13
+VIC_ACC_0188,VICTIM,ICICI Bank,Victim User 188,Mumbai_Metro,0.086
+VIC_ACC_0189,VICTIM,ICICI Bank,Victim User 189,Delhi_NCR,0.103
+VIC_ACC_0190,VICTIM,State Bank of India,Victim User 190,Mumbai_Metro,0.012
+VIC_ACC_0191,VICTIM,Axis Bank,Victim User 191,Jamtara_Deoghar,0.055
+VIC_ACC_0192,VICTIM,ICICI Bank,Victim User 192,Bengaluru_Tech,0.017
+VIC_ACC_0193,VICTIM,Bank of Baroda,Victim User 193,Jamtara_Deoghar,0.026
+VIC_ACC_0194,VICTIM,HDFC Bank,Victim User 194,Hyderabad_Cyber,0.073
+VIC_ACC_0195,VICTIM,Canara Bank,Victim User 195,Jamtara_Deoghar,0.093
+VIC_ACC_0196,VICTIM,Union Bank of India,Victim User 196,Jamtara_Deoghar,0.041
+VIC_ACC_0197,VICTIM,State Bank of India,Victim User 197,Mewat_Region,0.12
+VIC_ACC_0198,VICTIM,Punjab National Bank,Victim User 198,Hyderabad_Cyber,0.1
+VIC_ACC_0199,VICTIM,State Bank of India,Victim User 199,Delhi_NCR,0.15
+VIC_ACC_0200,VICTIM,Bank of Baroda,Victim User 200,Hyderabad_Cyber,0.106
+VIC_ACC_0201,VICTIM,Union Bank of India,Victim User 201,Mewat_Region,0.137
+VIC_ACC_0202,VICTIM,HDFC Bank,Victim User 202,Delhi_NCR,0.055
+VIC_ACC_0203,VICTIM,ICICI Bank,Victim User 203,Delhi_NCR,0.028
+VIC_ACC_0204,VICTIM,Canara Bank,Victim User 204,Hyderabad_Cyber,0.149
+VIC_ACC_0205,VICTIM,Punjab National Bank,Victim User 205,Hyderabad_Cyber,0.081
+VIC_ACC_0206,VICTIM,Bank of Baroda,Victim User 206,Delhi_NCR,0.121
+VIC_ACC_0207,VICTIM,HDFC Bank,Victim User 207,Kolkata_East,0.102
+VIC_ACC_0208,VICTIM,Axis Bank,Victim User 208,Hyderabad_Cyber,0.073
+VIC_ACC_0209,VICTIM,Axis Bank,Victim User 209,Hyderabad_Cyber,0.057
+VIC_ACC_0210,VICTIM,Union Bank of India,Victim User 210,Hyderabad_Cyber,0.068
+VIC_ACC_0211,VICTIM,HDFC Bank,Victim User 211,Bengaluru_Tech,0.07
+VIC_ACC_0212,VICTIM,Punjab National Bank,Victim User 212,Bengaluru_Tech,0.144
+VIC_ACC_0213,VICTIM,Union Bank of India,Victim User 213,Delhi_NCR,0.023
+VIC_ACC_0214,VICTIM,HDFC Bank,Victim User 214,Delhi_NCR,0.07
+VIC_ACC_0215,VICTIM,Canara Bank,Victim User 215,Kolkata_East,0.028
+VIC_ACC_0216,VICTIM,State Bank of India,Victim User 216,Jamtara_Deoghar,0.144
+VIC_ACC_0217,VICTIM,Canara Bank,Victim User 217,Mewat_Region,0.027
+VIC_ACC_0218,VICTIM,Canara Bank,Victim User 218,Kolkata_East,0.103
+VIC_ACC_0219,VICTIM,Bank of Baroda,Victim User 219,Kolkata_East,0.138
+VIC_ACC_0220,VICTIM,State Bank of India,Victim User 220,Bengaluru_Tech,0.094
+VIC_ACC_0221,VICTIM,Canara Bank,Victim User 221,Delhi_NCR,0.091
+VIC_ACC_0222,VICTIM,Axis Bank,Victim User 222,Mumbai_Metro,0.102
+VIC_ACC_0223,VICTIM,Axis Bank,Victim User 223,Kolkata_East,0.025
+VIC_ACC_0224,VICTIM,Canara Bank,Victim User 224,Delhi_NCR,0.117
+VIC_ACC_0225,VICTIM,Axis Bank,Victim User 225,Kolkata_East,0.07
+VIC_ACC_0226,VICTIM,State Bank of India,Victim User 226,Jamtara_Deoghar,0.14
+VIC_ACC_0227,VICTIM,Punjab National Bank,Victim User 227,Delhi_NCR,0.035
+VIC_ACC_0228,VICTIM,Punjab National Bank,Victim User 228,Bengaluru_Tech,0.059
+VIC_ACC_0229,VICTIM,ICICI Bank,Victim User 229,Kolkata_East,0.03
+VIC_ACC_0230,VICTIM,Bank of Baroda,Victim User 230,Delhi_NCR,0.03
+VIC_ACC_0231,VICTIM,State Bank of India,Victim User 231,Delhi_NCR,0.114
+VIC_ACC_0232,VICTIM,Axis Bank,Victim User 232,Hyderabad_Cyber,0.069
+VIC_ACC_0233,VICTIM,Canara Bank,Victim User 233,Mumbai_Metro,0.062
+VIC_ACC_0234,VICTIM,Canara Bank,Victim User 234,Kolkata_East,0.142
+VIC_ACC_0235,VICTIM,HDFC Bank,Victim User 235,Delhi_NCR,0.032
+VIC_ACC_0236,VICTIM,State Bank of India,Victim User 236,Mewat_Region,0.021
+VIC_ACC_0237,VICTIM,Union Bank of India,Victim User 237,Mewat_Region,0.069
+VIC_ACC_0238,VICTIM,Union Bank of India,Victim User 238,Hyderabad_Cyber,0.048
+VIC_ACC_0239,VICTIM,HDFC Bank,Victim User 239,Bengaluru_Tech,0.07
+VIC_ACC_0240,VICTIM,Punjab National Bank,Victim User 240,Mewat_Region,0.105
+VIC_ACC_0241,VICTIM,Union Bank of India,Victim User 241,Jamtara_Deoghar,0.103
+VIC_ACC_0242,VICTIM,State Bank of India,Victim User 242,Mumbai_Metro,0.065
+VIC_ACC_0243,VICTIM,State Bank of India,Victim User 243,Delhi_NCR,0.039
+VIC_ACC_0244,VICTIM,Axis Bank,Victim User 244,Kolkata_East,0.029
+VIC_ACC_0245,VICTIM,Punjab National Bank,Victim User 245,Bengaluru_Tech,0.056
+VIC_ACC_0246,VICTIM,State Bank of India,Victim User 246,Hyderabad_Cyber,0.115
+VIC_ACC_0247,VICTIM,ICICI Bank,Victim User 247,Mumbai_Metro,0.063
+VIC_ACC_0248,VICTIM,Axis Bank,Victim User 248,Jamtara_Deoghar,0.088
+VIC_ACC_0249,VICTIM,Canara Bank,Victim User 249,Delhi_NCR,0.066
+VIC_ACC_0250,VICTIM,State Bank of India,Victim User 250,Hyderabad_Cyber,0.013
+VIC_ACC_0251,VICTIM,HDFC Bank,Victim User 251,Kolkata_East,0.054
+VIC_ACC_0252,VICTIM,Bank of Baroda,Victim User 252,Jamtara_Deoghar,0.067
+VIC_ACC_0253,VICTIM,Bank of Baroda,Victim User 253,Bengaluru_Tech,0.026
+VIC_ACC_0254,VICTIM,State Bank of India,Victim User 254,Bengaluru_Tech,0.034
+VIC_ACC_0255,VICTIM,Union Bank of India,Victim User 255,Kolkata_East,0.107
+VIC_ACC_0256,VICTIM,Canara Bank,Victim User 256,Delhi_NCR,0.071
+VIC_ACC_0257,VICTIM,HDFC Bank,Victim User 257,Mumbai_Metro,0.071
+VIC_ACC_0258,VICTIM,Bank of Baroda,Victim User 258,Jamtara_Deoghar,0.021
+VIC_ACC_0259,VICTIM,Punjab National Bank,Victim User 259,Mewat_Region,0.058
+VIC_ACC_0260,VICTIM,Canara Bank,Victim User 260,Kolkata_East,0.034
+VIC_ACC_0261,VICTIM,HDFC Bank,Victim User 261,Jamtara_Deoghar,0.081
+VIC_ACC_0262,VICTIM,Canara Bank,Victim User 262,Bengaluru_Tech,0.112
+VIC_ACC_0263,VICTIM,ICICI Bank,Victim User 263,Mumbai_Metro,0.024
+VIC_ACC_0264,VICTIM,Punjab National Bank,Victim User 264,Mumbai_Metro,0.034
+VIC_ACC_0265,VICTIM,ICICI Bank,Victim User 265,Kolkata_East,0.116
+VIC_ACC_0266,VICTIM,HDFC Bank,Victim User 266,Mumbai_Metro,0.143
+VIC_ACC_0267,VICTIM,Union Bank of India,Victim User 267,Hyderabad_Cyber,0.116
+VIC_ACC_0268,VICTIM,Union Bank of India,Victim User 268,Mewat_Region,0.139
+VIC_ACC_0269,VICTIM,Canara Bank,Victim User 269,Kolkata_East,0.146
+VIC_ACC_0270,VICTIM,Canara Bank,Victim User 270,Mumbai_Metro,0.072
+VIC_ACC_0271,VICTIM,Union Bank of India,Victim User 271,Hyderabad_Cyber,0.098
+VIC_ACC_0272,VICTIM,Punjab National Bank,Victim User 272,Jamtara_Deoghar,0.018
+VIC_ACC_0273,VICTIM,HDFC Bank,Victim User 273,Bengaluru_Tech,0.075
+VIC_ACC_0274,VICTIM,State Bank of India,Victim User 274,Delhi_NCR,0.062
+VIC_ACC_0275,VICTIM,Punjab National Bank,Victim User 275,Delhi_NCR,0.1
+VIC_ACC_0276,VICTIM,HDFC Bank,Victim User 276,Jamtara_Deoghar,0.093
+VIC_ACC_0277,VICTIM,Bank of Baroda,Victim User 277,Hyderabad_Cyber,0.091
+VIC_ACC_0278,VICTIM,State Bank of India,Victim User 278,Hyderabad_Cyber,0.137
+VIC_ACC_0279,VICTIM,Axis Bank,Victim User 279,Bengaluru_Tech,0.095
+VIC_ACC_0280,VICTIM,ICICI Bank,Victim User 280,Delhi_NCR,0.073
+VIC_ACC_0281,VICTIM,Canara Bank,Victim User 281,Mewat_Region,0.022
+VIC_ACC_0282,VICTIM,ICICI Bank,Victim User 282,Delhi_NCR,0.045
+VIC_ACC_0283,VICTIM,Union Bank of India,Victim User 283,Hyderabad_Cyber,0.083
+VIC_ACC_0284,VICTIM,ICICI Bank,Victim User 284,Bengaluru_Tech,0.062
+VIC_ACC_0285,VICTIM,Punjab National Bank,Victim User 285,Hyderabad_Cyber,0.067
+VIC_ACC_0286,VICTIM,Canara Bank,Victim User 286,Mewat_Region,0.094
+VIC_ACC_0287,VICTIM,Canara Bank,Victim User 287,Delhi_NCR,0.056
+VIC_ACC_0288,VICTIM,Bank of Baroda,Victim User 288,Bengaluru_Tech,0.045
+VIC_ACC_0289,VICTIM,ICICI Bank,Victim User 289,Bengaluru_Tech,0.021
+VIC_ACC_0290,VICTIM,ICICI Bank,Victim User 290,Bengaluru_Tech,0.053
+VIC_ACC_0291,VICTIM,Bank of Baroda,Victim User 291,Mumbai_Metro,0.093
+VIC_ACC_0292,VICTIM,HDFC Bank,Victim User 292,Bengaluru_Tech,0.088
+VIC_ACC_0293,VICTIM,Canara Bank,Victim User 293,Kolkata_East,0.028
+VIC_ACC_0294,VICTIM,HDFC Bank,Victim User 294,Mewat_Region,0.104
+VIC_ACC_0295,VICTIM,Canara Bank,Victim User 295,Delhi_NCR,0.061
+VIC_ACC_0296,VICTIM,ICICI Bank,Victim User 296,Mumbai_Metro,0.058
+VIC_ACC_0297,VICTIM,Union Bank of India,Victim User 297,Mumbai_Metro,0.042
+VIC_ACC_0298,VICTIM,ICICI Bank,Victim User 298,Mumbai_Metro,0.021
+VIC_ACC_0299,VICTIM,HDFC Bank,Victim User 299,Jamtara_Deoghar,0.118
+VIC_ACC_0300,VICTIM,State Bank of India,Victim User 300,Mewat_Region,0.057
+MUL1_ACC_0001,MULE_L1,ICICI Bank,Mule L1 Account 1,Jamtara_Deoghar,0.794
+MUL1_ACC_0002,MULE_L1,ICICI Bank,Mule L1 Account 2,Mumbai_Metro,0.908
+MUL1_ACC_0003,MULE_L1,ICICI Bank,Mule L1 Account 3,Mewat_Region,0.809
+MUL1_ACC_0004,MULE_L1,Bank of Baroda,Mule L1 Account 4,Bengaluru_Tech,0.869
+MUL1_ACC_0005,MULE_L1,Axis Bank,Mule L1 Account 5,Hyderabad_Cyber,0.853
+MUL1_ACC_0006,MULE_L1,Union Bank of India,Mule L1 Account 6,Mumbai_Metro,0.834
+MUL1_ACC_0007,MULE_L1,Punjab National Bank,Mule L1 Account 7,Kolkata_East,0.896
+MUL1_ACC_0008,MULE_L1,Axis Bank,Mule L1 Account 8,Bengaluru_Tech,0.87
+MUL1_ACC_0009,MULE_L1,Union Bank of India,Mule L1 Account 9,Hyderabad_Cyber,0.892
+MUL1_ACC_0010,MULE_L1,Bank of Baroda,Mule L1 Account 10,Jamtara_Deoghar,0.832
+MUL1_ACC_0011,MULE_L1,ICICI Bank,Mule L1 Account 11,Kolkata_East,0.75
+MUL1_ACC_0012,MULE_L1,ICICI Bank,Mule L1 Account 12,Kolkata_East,0.763
+MUL1_ACC_0013,MULE_L1,Union Bank of India,Mule L1 Account 13,Kolkata_East,0.793
+MUL1_ACC_0014,MULE_L1,HDFC Bank,Mule L1 Account 14,Mewat_Region,0.911
+MUL1_ACC_0015,MULE_L1,HDFC Bank,Mule L1 Account 15,Bengaluru_Tech,0.721
+MUL1_ACC_0016,MULE_L1,ICICI Bank,Mule L1 Account 16,Bengaluru_Tech,0.812
+MUL1_ACC_0017,MULE_L1,ICICI Bank,Mule L1 Account 17,Kolkata_East,0.809
+MUL1_ACC_0018,MULE_L1,Axis Bank,Mule L1 Account 18,Kolkata_East,0.813
+MUL1_ACC_0019,MULE_L1,Canara Bank,Mule L1 Account 19,Delhi_NCR,0.804
+MUL1_ACC_0020,MULE_L1,Bank of Baroda,Mule L1 Account 20,Jamtara_Deoghar,0.793
+MUL1_ACC_0021,MULE_L1,Bank of Baroda,Mule L1 Account 21,Delhi_NCR,0.794
+MUL1_ACC_0022,MULE_L1,State Bank of India,Mule L1 Account 22,Bengaluru_Tech,0.933
+MUL1_ACC_0023,MULE_L1,Canara Bank,Mule L1 Account 23,Kolkata_East,0.737
+MUL1_ACC_0024,MULE_L1,State Bank of India,Mule L1 Account 24,Bengaluru_Tech,0.929
+MUL1_ACC_0025,MULE_L1,Union Bank of India,Mule L1 Account 25,Mewat_Region,0.908
+MUL1_ACC_0026,MULE_L1,Union Bank of India,Mule L1 Account 26,Hyderabad_Cyber,0.854
+MUL1_ACC_0027,MULE_L1,HDFC Bank,Mule L1 Account 27,Delhi_NCR,0.764
+MUL1_ACC_0028,MULE_L1,ICICI Bank,Mule L1 Account 28,Jamtara_Deoghar,0.935
+MUL1_ACC_0029,MULE_L1,Bank of Baroda,Mule L1 Account 29,Delhi_NCR,0.894
+MUL1_ACC_0030,MULE_L1,Axis Bank,Mule L1 Account 30,Bengaluru_Tech,0.73
+MUL1_ACC_0031,MULE_L1,Axis Bank,Mule L1 Account 31,Hyderabad_Cyber,0.86
+MUL1_ACC_0032,MULE_L1,Union Bank of India,Mule L1 Account 32,Delhi_NCR,0.728
+MUL1_ACC_0033,MULE_L1,Union Bank of India,Mule L1 Account 33,Jamtara_Deoghar,0.834
+MUL1_ACC_0034,MULE_L1,Axis Bank,Mule L1 Account 34,Mewat_Region,0.736
+MUL1_ACC_0035,MULE_L1,Bank of Baroda,Mule L1 Account 35,Delhi_NCR,0.854
+MUL1_ACC_0036,MULE_L1,Axis Bank,Mule L1 Account 36,Jamtara_Deoghar,0.804
+MUL1_ACC_0037,MULE_L1,HDFC Bank,Mule L1 Account 37,Jamtara_Deoghar,0.944
+MUL1_ACC_0038,MULE_L1,HDFC Bank,Mule L1 Account 38,Jamtara_Deoghar,0.836
+MUL1_ACC_0039,MULE_L1,State Bank of India,Mule L1 Account 39,Hyderabad_Cyber,0.918
+MUL1_ACC_0040,MULE_L1,State Bank of India,Mule L1 Account 40,Mewat_Region,0.797
+MUL1_ACC_0041,MULE_L1,Canara Bank,Mule L1 Account 41,Bengaluru_Tech,0.887
+MUL1_ACC_0042,MULE_L1,Canara Bank,Mule L1 Account 42,Kolkata_East,0.717
+MUL1_ACC_0043,MULE_L1,Axis Bank,Mule L1 Account 43,Mewat_Region,0.864
+MUL1_ACC_0044,MULE_L1,HDFC Bank,Mule L1 Account 44,Kolkata_East,0.845
+MUL1_ACC_0045,MULE_L1,Canara Bank,Mule L1 Account 45,Mumbai_Metro,0.711
+MUL1_ACC_0046,MULE_L1,Canara Bank,Mule L1 Account 46,Kolkata_East,0.861
+MUL1_ACC_0047,MULE_L1,Union Bank of India,Mule L1 Account 47,Mewat_Region,0.82
+MUL1_ACC_0048,MULE_L1,ICICI Bank,Mule L1 Account 48,Kolkata_East,0.734
+MUL1_ACC_0049,MULE_L1,Union Bank of India,Mule L1 Account 49,Delhi_NCR,0.773
+MUL1_ACC_0050,MULE_L1,State Bank of India,Mule L1 Account 50,Kolkata_East,0.75
+MUL1_ACC_0051,MULE_L1,State Bank of India,Mule L1 Account 51,Bengaluru_Tech,0.933
+MUL1_ACC_0052,MULE_L1,Bank of Baroda,Mule L1 Account 52,Kolkata_East,0.836
+MUL1_ACC_0053,MULE_L1,Punjab National Bank,Mule L1 Account 53,Delhi_NCR,0.888
+MUL1_ACC_0054,MULE_L1,Axis Bank,Mule L1 Account 54,Bengaluru_Tech,0.789
+MUL1_ACC_0055,MULE_L1,State Bank of India,Mule L1 Account 55,Kolkata_East,0.864
+MUL1_ACC_0056,MULE_L1,Punjab National Bank,Mule L1 Account 56,Delhi_NCR,0.9
+MUL1_ACC_0057,MULE_L1,Bank of Baroda,Mule L1 Account 57,Hyderabad_Cyber,0.886
+MUL1_ACC_0058,MULE_L1,Bank of Baroda,Mule L1 Account 58,Bengaluru_Tech,0.943
+MUL1_ACC_0059,MULE_L1,Union Bank of India,Mule L1 Account 59,Mewat_Region,0.824
+MUL1_ACC_0060,MULE_L1,Punjab National Bank,Mule L1 Account 60,Kolkata_East,0.721
+MUL1_ACC_0061,MULE_L1,Bank of Baroda,Mule L1 Account 61,Delhi_NCR,0.808
+MUL1_ACC_0062,MULE_L1,ICICI Bank,Mule L1 Account 62,Jamtara_Deoghar,0.773
+MUL1_ACC_0063,MULE_L1,HDFC Bank,Mule L1 Account 63,Delhi_NCR,0.782
+MUL1_ACC_0064,MULE_L1,Punjab National Bank,Mule L1 Account 64,Bengaluru_Tech,0.811
+MUL1_ACC_0065,MULE_L1,Bank of Baroda,Mule L1 Account 65,Mumbai_Metro,0.872
+MUL1_ACC_0066,MULE_L1,Canara Bank,Mule L1 Account 66,Hyderabad_Cyber,0.711
+MUL1_ACC_0067,MULE_L1,Canara Bank,Mule L1 Account 67,Jamtara_Deoghar,0.95
+MUL1_ACC_0068,MULE_L1,Punjab National Bank,Mule L1 Account 68,Mewat_Region,0.945
+MUL1_ACC_0069,MULE_L1,State Bank of India,Mule L1 Account 69,Delhi_NCR,0.868
+MUL1_ACC_0070,MULE_L1,Bank of Baroda,Mule L1 Account 70,Bengaluru_Tech,0.828
+MUL1_ACC_0071,MULE_L1,ICICI Bank,Mule L1 Account 71,Delhi_NCR,0.736
+MUL1_ACC_0072,MULE_L1,Union Bank of India,Mule L1 Account 72,Delhi_NCR,0.732
+MUL1_ACC_0073,MULE_L1,Axis Bank,Mule L1 Account 73,Kolkata_East,0.861
+MUL1_ACC_0074,MULE_L1,Canara Bank,Mule L1 Account 74,Hyderabad_Cyber,0.937
+MUL1_ACC_0075,MULE_L1,State Bank of India,Mule L1 Account 75,Jamtara_Deoghar,0.738
+MUL1_ACC_0076,MULE_L1,Union Bank of India,Mule L1 Account 76,Bengaluru_Tech,0.793
+MUL1_ACC_0077,MULE_L1,HDFC Bank,Mule L1 Account 77,Jamtara_Deoghar,0.734
+MUL1_ACC_0078,MULE_L1,Canara Bank,Mule L1 Account 78,Hyderabad_Cyber,0.779
+MUL1_ACC_0079,MULE_L1,Punjab National Bank,Mule L1 Account 79,Mumbai_Metro,0.94
+MUL1_ACC_0080,MULE_L1,State Bank of India,Mule L1 Account 80,Mewat_Region,0.747
+MUL1_ACC_0081,MULE_L1,Bank of Baroda,Mule L1 Account 81,Jamtara_Deoghar,0.729
+MUL1_ACC_0082,MULE_L1,Punjab National Bank,Mule L1 Account 82,Mewat_Region,0.812
+MUL1_ACC_0083,MULE_L1,Punjab National Bank,Mule L1 Account 83,Mewat_Region,0.929
+MUL1_ACC_0084,MULE_L1,Union Bank of India,Mule L1 Account 84,Mumbai_Metro,0.731
+MUL1_ACC_0085,MULE_L1,HDFC Bank,Mule L1 Account 85,Hyderabad_Cyber,0.743
+MUL1_ACC_0086,MULE_L1,Union Bank of India,Mule L1 Account 86,Delhi_NCR,0.903
+MUL1_ACC_0087,MULE_L1,Canara Bank,Mule L1 Account 87,Mewat_Region,0.787
+MUL1_ACC_0088,MULE_L1,HDFC Bank,Mule L1 Account 88,Jamtara_Deoghar,0.836
+MUL1_ACC_0089,MULE_L1,Punjab National Bank,Mule L1 Account 89,Kolkata_East,0.739
+MUL1_ACC_0090,MULE_L1,ICICI Bank,Mule L1 Account 90,Kolkata_East,0.79
+MUL2_ACC_0001,MULE_L2,Axis Bank,Mule L2 Aggregator 1,Delhi_NCR,0.988
+MUL2_ACC_0002,MULE_L2,ICICI Bank,Mule L2 Aggregator 2,Mumbai_Metro,0.961
+MUL2_ACC_0003,MULE_L2,State Bank of India,Mule L2 Aggregator 3,Bengaluru_Tech,0.928
+MUL2_ACC_0004,MULE_L2,Canara Bank,Mule L2 Aggregator 4,Hyderabad_Cyber,0.963
+MUL2_ACC_0005,MULE_L2,ICICI Bank,Mule L2 Aggregator 5,Jamtara_Deoghar,0.974
+MUL2_ACC_0006,MULE_L2,HDFC Bank,Mule L2 Aggregator 6,Bengaluru_Tech,0.906
+MUL2_ACC_0007,MULE_L2,Union Bank of India,Mule L2 Aggregator 7,Jamtara_Deoghar,0.908
+MUL2_ACC_0008,MULE_L2,Bank of Baroda,Mule L2 Aggregator 8,Kolkata_East,0.93
+MUL2_ACC_0009,MULE_L2,ICICI Bank,Mule L2 Aggregator 9,Bengaluru_Tech,0.94
+MUL2_ACC_0010,MULE_L2,Union Bank of India,Mule L2 Aggregator 10,Hyderabad_Cyber,0.945
+MUL2_ACC_0011,MULE_L2,Canara Bank,Mule L2 Aggregator 11,Mumbai_Metro,0.973
+MUL2_ACC_0012,MULE_L2,ICICI Bank,Mule L2 Aggregator 12,Kolkata_East,0.985
+MUL2_ACC_0013,MULE_L2,Bank of Baroda,Mule L2 Aggregator 13,Jamtara_Deoghar,0.977
+MUL2_ACC_0014,MULE_L2,State Bank of India,Mule L2 Aggregator 14,Kolkata_East,0.867
+MUL2_ACC_0015,MULE_L2,ICICI Bank,Mule L2 Aggregator 15,Bengaluru_Tech,0.873
+MUL2_ACC_0016,MULE_L2,Canara Bank,Mule L2 Aggregator 16,Mewat_Region,0.882
+MUL2_ACC_0017,MULE_L2,Punjab National Bank,Mule L2 Aggregator 17,Kolkata_East,0.861
+MUL2_ACC_0018,MULE_L2,Axis Bank,Mule L2 Aggregator 18,Mewat_Region,0.984
+MUL2_ACC_0019,MULE_L2,Punjab National Bank,Mule L2 Aggregator 19,Mumbai_Metro,0.938
+MUL2_ACC_0020,MULE_L2,HDFC Bank,Mule L2 Aggregator 20,Jamtara_Deoghar,0.94
+MUL2_ACC_0021,MULE_L2,ICICI Bank,Mule L2 Aggregator 21,Mumbai_Metro,0.942
+MUL2_ACC_0022,MULE_L2,Canara Bank,Mule L2 Aggregator 22,Kolkata_East,0.979
+MUL2_ACC_0023,MULE_L2,State Bank of India,Mule L2 Aggregator 23,Kolkata_East,0.971
+MUL2_ACC_0024,MULE_L2,HDFC Bank,Mule L2 Aggregator 24,Delhi_NCR,0.983
+MUL2_ACC_0025,MULE_L2,Punjab National Bank,Mule L2 Aggregator 25,Mewat_Region,0.88
+MUL2_ACC_0026,MULE_L2,Bank of Baroda,Mule L2 Aggregator 26,Jamtara_Deoghar,0.939
+MUL2_ACC_0027,MULE_L2,Union Bank of India,Mule L2 Aggregator 27,Mewat_Region,0.926
+MUL2_ACC_0028,MULE_L2,Punjab National Bank,Mule L2 Aggregator 28,Hyderabad_Cyber,0.884
+MUL2_ACC_0029,MULE_L2,Bank of Baroda,Mule L2 Aggregator 29,Bengaluru_Tech,0.913
+MUL2_ACC_0030,MULE_L2,State Bank of India,Mule L2 Aggregator 30,Mumbai_Metro,0.912
+MUL2_ACC_0031,MULE_L2,Union Bank of India,Mule L2 Aggregator 31,Hyderabad_Cyber,0.879
+MUL2_ACC_0032,MULE_L2,ICICI Bank,Mule L2 Aggregator 32,Bengaluru_Tech,0.971
+MUL2_ACC_0033,MULE_L2,Canara Bank,Mule L2 Aggregator 33,Mewat_Region,0.988
+MUL2_ACC_0034,MULE_L2,Canara Bank,Mule L2 Aggregator 34,Hyderabad_Cyber,0.868
+MUL2_ACC_0035,MULE_L2,Canara Bank,Mule L2 Aggregator 35,Jamtara_Deoghar,0.929
+KING_ACC_0001,KINGPIN,Canara Bank,Syndicate Controller 1,Jamtara_Deoghar,0.957
+KING_ACC_0002,KINGPIN,Punjab National Bank,Syndicate Controller 2,Mewat_Region,0.94
+KING_ACC_0003,KINGPIN,HDFC Bank,Syndicate Controller 3,Jamtara_Deoghar,0.943
+KING_ACC_0004,KINGPIN,Bank of Baroda,Syndicate Controller 4,Delhi_NCR,0.953
+KING_ACC_0005,KINGPIN,ICICI Bank,Syndicate Controller 5,Mewat_Region,0.994
+KING_ACC_0006,KINGPIN,Canara Bank,Syndicate Controller 6,Jamtara_Deoghar,0.98
+KING_ACC_0007,KINGPIN,Union Bank of India,Syndicate Controller 7,Delhi_NCR,0.957
+KING_ACC_0008,KINGPIN,Punjab National Bank,Syndicate Controller 8,Mewat_Region,0.922
+KING_ACC_0009,KINGPIN,Bank of Baroda,Syndicate Controller 9,Delhi_NCR,0.956
+KING_ACC_0010,KINGPIN,Axis Bank,Syndicate Controller 10,Jamtara_Deoghar,0.966
+KING_ACC_0011,KINGPIN,State Bank of India,Syndicate Controller 11,Jamtara_Deoghar,0.942
+KING_ACC_0012,KINGPIN,Union Bank of India,Syndicate Controller 12,Mewat_Region,0.962
+KING_ACC_0013,KINGPIN,HDFC Bank,Syndicate Controller 13,Mewat_Region,0.931
+KING_ACC_0014,KINGPIN,Punjab National Bank,Syndicate Controller 14,Delhi_NCR,0.949
+KING_ACC_0015,KINGPIN,Bank of Baroda,Syndicate Controller 15,Mewat_Region,0.924
