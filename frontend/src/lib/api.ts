@@ -1,5 +1,5 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
-const ML_API_BASE_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'http://localhost:8001';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://cyber-predict-360.onrender.com';
+const ML_API_BASE_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'https://cyber-predict-360.onrender.com';
 
 export interface HealthCheckResponse {
   status: string;
