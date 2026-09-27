@@ -29,7 +29,11 @@ interface IncidentPoint {
 type MapTileStyle = 'google-roadmap' | 'google-satellite' | 'google-terrain' | 'dark-mode' | 'openmaptiles-standard' | 'opentopo-terrain' | 'osm-fr';
 type MapDisplayMode = 'HEATMAP' | 'CLUSTERS' | 'BOTH';
 
-export default function HotspotMap() {
+interface HotspotMapProps {
+  hideHeader?: boolean;
+}
+
+export default function HotspotMap({ hideHeader = false }: HotspotMapProps) {
   const [selectedHubId, setSelectedHubId] = useState<string>('agra');
   const [filterRisk, setFilterRisk] = useState<string>('ALL');
   const [filterCategory, setFilterCategory] = useState<string>('ALL');
