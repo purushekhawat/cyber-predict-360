@@ -31,7 +31,7 @@ interface MuleAccount {
   accountNo: string;
   bankName: string;
   holderName: string;
-  accountType: 'SAVINGS' | 'CURRENT' | 'CYBER_MULE_SUSPECT';
+  accountType: string;
   riskScore: number;
   ncrpAckId: string;
   lienStatus: 'ACTIVE_LIEN' | 'FREEZE_PENDING' | 'CLEARED' | 'SUSPENDED';
