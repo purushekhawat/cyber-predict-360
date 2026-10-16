@@ -1,0 +1,15 @@
+{
+  "dataset_name": "CYBER-PREDICT 360 Unified Dataset with Proposed_Data SOA Integration",
+  "integration_timestamp": "2026-10-25T07:35:14.470976Z",
+  "status": "fully_operational",
+  "counts": {
+    "total_atms": 120,
+    "total_accounts": 465,
+    "total_complaints": 600,
+    "total_transactions": 1678,
+    "total_withdrawals": 600,
+    "proposed_soa_accounts": 25,
+    "proposed_soa_transactions_indexed": 494276,
+    "proposed_soa_turnover_inr": 7853617492.239999
+  }
+}

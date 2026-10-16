@@ -1,0 +1,121 @@
+atm_id,bank_name,address,city,hub_name,pincode,latitude,longitude,risk_rating,is_active
+ATM_0001,HDFC Bank,"Plot 26, Sector 48, Mumbai Metro",Mumbai,Mumbai_Metro,46350,19.099842,72.871063,0.374,True
+ATM_0002,HDFC Bank,"Plot 693, Sector 48, Bengaluru Tech",Bengaluru,Bengaluru_Tech,80189,12.997508,77.655521,0.661,True
+ATM_0003,State Bank of India,"Plot 31, Sector 6, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,38338,17.375634,78.477335,0.594,True
+ATM_0004,State Bank of India,"Plot 575, Sector 13, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,80529,24.343037,86.861395,0.372,True
+ATM_0005,Punjab National Bank,"Plot 829, Sector 1, Mewat Region",Mewat,Mewat_Region,31814,27.966198,77.039064,0.53,True
+ATM_0006,Punjab National Bank,"Plot 160, Sector 14, Kolkata East",Kolkata,Kolkata_East,54204,22.550356,88.341545,0.272,True
+ATM_0007,HDFC Bank,"Plot 368, Sector 23, Delhi NCR",Delhi,Delhi_NCR,44926,28.625514,77.117163,0.234,True
+ATM_0008,Union Bank of India,"Plot 550, Sector 8, Mumbai Metro",Mumbai,Mumbai_Metro,59180,18.993204,72.85071,0.631,True
+ATM_0009,Canara Bank,"Plot 592, Sector 13, Bengaluru Tech",Bengaluru,Bengaluru_Tech,19146,12.931087,77.60717,0.716,True
+ATM_0010,Punjab National Bank,"Plot 82, Sector 15, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,23489,17.348679,78.430208,0.417,True
+ATM_0011,Canara Bank,"Plot 167, Sector 24, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,56314,24.333952,86.781938,0.723,True
+ATM_0012,HDFC Bank,"Plot 624, Sector 41, Mewat Region",Mewat,Mewat_Region,32646,28.004862,76.897418,0.769,True
+ATM_0013,ICICI Bank,"Plot 474, Sector 25, Kolkata East",Kolkata,Kolkata_East,45755,22.54647,88.369224,0.737,True
+ATM_0014,Axis Bank,"Plot 702, Sector 21, Delhi NCR",Delhi,Delhi_NCR,18334,28.558652,77.227034,0.841,True
+ATM_0015,Canara Bank,"Plot 411, Sector 18, Mumbai Metro",Mumbai,Mumbai_Metro,19316,19.047169,72.863699,0.912,True
+ATM_0016,Canara Bank,"Plot 218, Sector 42, Bengaluru Tech",Bengaluru,Bengaluru_Tech,74505,12.947532,77.668691,0.89,True
+ATM_0017,Union Bank of India,"Plot 147, Sector 17, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,28352,17.38446,78.444392,0.781,True
+ATM_0018,Punjab National Bank,"Plot 765, Sector 38, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,65697,24.282504,86.702333,0.512,True
+ATM_0019,Axis Bank,"Plot 142, Sector 33, Mewat Region",Mewat,Mewat_Region,74193,28.015038,76.858904,0.79,True
+ATM_0020,HDFC Bank,"Plot 157, Sector 41, Kolkata East",Kolkata,Kolkata_East,31911,22.508847,88.373349,0.731,True
+ATM_0021,HDFC Bank,"Plot 395, Sector 25, Delhi NCR",Delhi,Delhi_NCR,70641,28.649346,77.217226,0.396,True
+ATM_0022,State Bank of India,"Plot 697, Sector 47, Mumbai Metro",Mumbai,Mumbai_Metro,25798,19.070449,72.863247,0.89,True
+ATM_0023,Punjab National Bank,"Plot 788, Sector 42, Bengaluru Tech",Bengaluru,Bengaluru_Tech,54214,12.912459,77.565806,0.429,True
+ATM_0024,ICICI Bank,"Plot 465, Sector 1, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,44612,17.366574,78.528985,0.794,True
+ATM_0025,HDFC Bank,"Plot 892, Sector 41, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,49961,24.244189,86.658957,0.698,True
+ATM_0026,Axis Bank,"Plot 157, Sector 24, Mewat Region",Mewat,Mewat_Region,31652,28.023334,76.972274,0.944,True
+ATM_0027,State Bank of India,"Plot 614, Sector 21, Kolkata East",Kolkata,Kolkata_East,73119,22.540108,88.39326,0.287,True
+ATM_0028,Canara Bank,"Plot 900, Sector 20, Delhi NCR",Delhi,Delhi_NCR,41159,28.663388,77.253701,0.388,True
+ATM_0029,HDFC Bank,"Plot 88, Sector 47, Mumbai Metro",Mumbai,Mumbai_Metro,73935,19.035718,72.862858,0.254,True
+ATM_0030,ICICI Bank,"Plot 132, Sector 43, Bengaluru Tech",Bengaluru,Bengaluru_Tech,71662,12.984851,77.633622,0.329,True
+ATM_0031,Bank of Baroda,"Plot 988, Sector 14, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,80873,17.365833,78.479274,0.769,True
+ATM_0032,Axis Bank,"Plot 731, Sector 20, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,62787,24.128193,86.704303,0.707,True
+ATM_0033,Union Bank of India,"Plot 922, Sector 34, Mewat Region",Mewat,Mewat_Region,68223,28.058502,77.097649,0.393,True
+ATM_0034,HDFC Bank,"Plot 347, Sector 2, Kolkata East",Kolkata,Kolkata_East,81335,22.569144,88.41207,0.659,True
+ATM_0035,State Bank of India,"Plot 73, Sector 46, Delhi NCR",Delhi,Delhi_NCR,18334,28.631259,77.178034,0.253,True
+ATM_0036,State Bank of India,"Plot 881, Sector 22, Mumbai Metro",Mumbai,Mumbai_Metro,20626,19.093347,72.951526,0.386,True
+ATM_0037,Union Bank of India,"Plot 220, Sector 35, Bengaluru Tech",Bengaluru,Bengaluru_Tech,27840,12.970167,77.657186,0.93,True
+ATM_0038,Union Bank of India,"Plot 249, Sector 31, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,63294,17.28021,78.519576,0.274,True
+ATM_0039,Bank of Baroda,"Plot 363, Sector 28, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,63578,24.223664,86.776079,0.874,True
+ATM_0040,State Bank of India,"Plot 690, Sector 42, Mewat Region",Mewat,Mewat_Region,23162,28.006607,76.856895,0.514,True
+ATM_0041,Canara Bank,"Plot 820, Sector 7, Kolkata East",Kolkata,Kolkata_East,42296,22.562056,88.381041,0.348,True
+ATM_0042,Union Bank of India,"Plot 144, Sector 28, Delhi NCR",Delhi,Delhi_NCR,34385,28.684839,77.184123,0.561,True
+ATM_0043,HDFC Bank,"Plot 454, Sector 36, Mumbai Metro",Mumbai,Mumbai_Metro,23151,19.037192,72.853616,0.709,True
+ATM_0044,State Bank of India,"Plot 993, Sector 6, Bengaluru Tech",Bengaluru,Bengaluru_Tech,41270,13.008216,77.60775,0.517,True
+ATM_0045,Union Bank of India,"Plot 219, Sector 26, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,18268,17.36381,78.507231,0.496,True
+ATM_0046,Bank of Baroda,"Plot 272, Sector 30, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,47533,24.224466,86.877492,0.743,True
+ATM_0047,Union Bank of India,"Plot 159, Sector 13, Mewat Region",Mewat,Mewat_Region,48322,27.949452,76.976408,0.956,True
+ATM_0048,State Bank of India,"Plot 766, Sector 21, Kolkata East",Kolkata,Kolkata_East,18151,22.553779,88.293651,0.656,True
+ATM_0049,ICICI Bank,"Plot 59, Sector 33, Delhi NCR",Delhi,Delhi_NCR,21971,28.628114,77.221531,0.345,True
+ATM_0050,HDFC Bank,"Plot 692, Sector 16, Mumbai Metro",Mumbai,Mumbai_Metro,62222,19.076245,72.86644,0.934,True
+ATM_0051,Axis Bank,"Plot 593, Sector 39, Bengaluru Tech",Bengaluru,Bengaluru_Tech,16734,12.914985,77.577774,0.264,True
+ATM_0052,Canara Bank,"Plot 958, Sector 17, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,37785,17.371291,78.454609,0.759,True
+ATM_0053,Axis Bank,"Plot 272, Sector 26, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,27787,24.203797,86.832324,0.703,True
+ATM_0054,Union Bank of India,"Plot 324, Sector 49, Mewat Region",Mewat,Mewat_Region,20109,28.135805,77.01257,0.557,True
+ATM_0055,HDFC Bank,"Plot 76, Sector 35, Kolkata East",Kolkata,Kolkata_East,38618,22.584962,88.360327,0.407,True
+ATM_0056,Canara Bank,"Plot 903, Sector 5, Delhi NCR",Delhi,Delhi_NCR,42478,28.521799,77.207727,0.422,True
+ATM_0057,Union Bank of India,"Plot 854, Sector 35, Mumbai Metro",Mumbai,Mumbai_Metro,49726,19.078891,72.995936,0.967,True
+ATM_0058,State Bank of India,"Plot 684, Sector 36, Bengaluru Tech",Bengaluru,Bengaluru_Tech,49779,12.963906,77.606662,0.281,True
+ATM_0059,ICICI Bank,"Plot 271, Sector 8, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,24860,17.383612,78.439953,0.632,True
+ATM_0060,Punjab National Bank,"Plot 289, Sector 39, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,37834,24.308126,86.860155,0.467,True
+ATM_0061,Punjab National Bank,"Plot 518, Sector 32, Mewat Region",Mewat,Mewat_Region,43966,28.056954,76.934524,0.24,True
+ATM_0062,Bank of Baroda,"Plot 850, Sector 18, Kolkata East",Kolkata,Kolkata_East,16103,22.639934,88.296611,0.46,True
+ATM_0063,ICICI Bank,"Plot 653, Sector 17, Delhi NCR",Delhi,Delhi_NCR,31859,28.642069,77.314142,0.545,True
+ATM_0064,Bank of Baroda,"Plot 575, Sector 1, Mumbai Metro",Mumbai,Mumbai_Metro,25177,19.028454,72.850518,0.937,True
+ATM_0065,ICICI Bank,"Plot 559, Sector 3, Bengaluru Tech",Bengaluru,Bengaluru_Tech,58696,12.975586,77.574461,0.631,True
+ATM_0066,Bank of Baroda,"Plot 131, Sector 3, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,50473,17.322973,78.489443,0.901,True
+ATM_0067,State Bank of India,"Plot 921, Sector 23, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,37798,24.131716,86.837887,0.395,True
+ATM_0068,HDFC Bank,"Plot 363, Sector 50, Mewat Region",Mewat,Mewat_Region,82995,27.933801,77.111595,0.517,True
+ATM_0069,ICICI Bank,"Plot 948, Sector 16, Kolkata East",Kolkata,Kolkata_East,31919,22.535004,88.348441,0.832,True
+ATM_0070,Bank of Baroda,"Plot 26, Sector 12, Delhi NCR",Delhi,Delhi_NCR,53901,28.652949,77.149919,0.926,True
+ATM_0071,Axis Bank,"Plot 274, Sector 11, Mumbai Metro",Mumbai,Mumbai_Metro,24491,19.086918,72.940443,0.88,True
+ATM_0072,Union Bank of India,"Plot 228, Sector 13, Bengaluru Tech",Bengaluru,Bengaluru_Tech,69458,12.907301,77.601985,0.438,True
+ATM_0073,Axis Bank,"Plot 229, Sector 2, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,35508,17.395395,78.517973,0.456,True
+ATM_0074,HDFC Bank,"Plot 991, Sector 50, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,46459,24.117744,86.694363,0.7,True
+ATM_0075,Bank of Baroda,"Plot 696, Sector 35, Mewat Region",Mewat,Mewat_Region,53128,28.03758,77.021383,0.29,True
+ATM_0076,Punjab National Bank,"Plot 183, Sector 38, Kolkata East",Kolkata,Kolkata_East,44139,22.584624,88.38053,0.285,True
+ATM_0077,Bank of Baroda,"Plot 354, Sector 47, Delhi NCR",Delhi,Delhi_NCR,51546,28.581259,77.220148,0.673,True
+ATM_0078,HDFC Bank,"Plot 395, Sector 37, Mumbai Metro",Mumbai,Mumbai_Metro,35360,19.090067,72.843411,0.235,True
+ATM_0079,Bank of Baroda,"Plot 2, Sector 34, Bengaluru Tech",Bengaluru,Bengaluru_Tech,79803,13.046231,77.613553,0.761,True
+ATM_0080,Axis Bank,"Plot 373, Sector 28, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,19780,17.337348,78.512962,0.918,True
+ATM_0081,Canara Bank,"Plot 680, Sector 8, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,49619,24.138725,86.862967,0.441,True
+ATM_0082,Bank of Baroda,"Plot 335, Sector 26, Mewat Region",Mewat,Mewat_Region,48667,28.083419,76.940911,0.299,True
+ATM_0083,Bank of Baroda,"Plot 681, Sector 25, Kolkata East",Kolkata,Kolkata_East,33730,22.618842,88.383713,0.644,True
+ATM_0084,Bank of Baroda,"Plot 562, Sector 1, Delhi NCR",Delhi,Delhi_NCR,49393,28.653359,77.300046,0.364,True
+ATM_0085,Canara Bank,"Plot 477, Sector 29, Mumbai Metro",Mumbai,Mumbai_Metro,67791,19.064221,72.841521,0.367,True
+ATM_0086,Union Bank of India,"Plot 813, Sector 48, Bengaluru Tech",Bengaluru,Bengaluru_Tech,32774,12.936019,77.561968,0.266,True
+ATM_0087,Canara Bank,"Plot 96, Sector 49, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,41788,17.381916,78.500346,0.442,True
+ATM_0088,Axis Bank,"Plot 151, Sector 2, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,16350,24.238835,86.866175,0.967,True
+ATM_0089,HDFC Bank,"Plot 467, Sector 27, Mewat Region",Mewat,Mewat_Region,84299,28.000936,77.104654,0.76,True
+ATM_0090,Bank of Baroda,"Plot 507, Sector 26, Kolkata East",Kolkata,Kolkata_East,42251,22.559896,88.494468,0.712,True
+ATM_0091,State Bank of India,"Plot 915, Sector 49, Delhi NCR",Delhi,Delhi_NCR,24897,28.643932,77.167856,0.532,True
+ATM_0092,ICICI Bank,"Plot 824, Sector 45, Mumbai Metro",Mumbai,Mumbai_Metro,77575,19.024597,72.900859,0.239,True
+ATM_0093,Axis Bank,"Plot 940, Sector 8, Bengaluru Tech",Bengaluru,Bengaluru_Tech,69236,12.962661,77.62316,0.825,True
+ATM_0094,Canara Bank,"Plot 973, Sector 49, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,67727,17.40393,78.483787,0.836,True
+ATM_0095,Bank of Baroda,"Plot 851, Sector 36, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,68262,24.148957,86.678812,0.78,True
+ATM_0096,Union Bank of India,"Plot 461, Sector 17, Mewat Region",Mewat,Mewat_Region,42960,27.967851,77.061661,0.697,True
+ATM_0097,Union Bank of India,"Plot 642, Sector 16, Kolkata East",Kolkata,Kolkata_East,46550,22.582876,88.304105,0.26,True
+ATM_0098,Punjab National Bank,"Plot 241, Sector 18, Delhi NCR",Delhi,Delhi_NCR,53427,28.622213,77.227495,0.897,True
+ATM_0099,HDFC Bank,"Plot 142, Sector 10, Mumbai Metro",Mumbai,Mumbai_Metro,40492,19.033575,72.885079,0.741,True
+ATM_0100,Axis Bank,"Plot 66, Sector 27, Bengaluru Tech",Bengaluru,Bengaluru_Tech,63438,12.973928,77.548881,0.623,True
+ATM_0101,Bank of Baroda,"Plot 64, Sector 14, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,64498,17.399311,78.509131,0.906,True
+ATM_0102,State Bank of India,"Plot 878, Sector 49, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,84489,24.303344,86.884304,0.572,True
+ATM_0103,Canara Bank,"Plot 306, Sector 49, Mewat Region",Mewat,Mewat_Region,60973,27.900808,76.932477,0.895,True
+ATM_0104,Bank of Baroda,"Plot 552, Sector 48, Kolkata East",Kolkata,Kolkata_East,80919,22.597322,88.388562,0.671,True
+ATM_0105,Axis Bank,"Plot 500, Sector 15, Delhi NCR",Delhi,Delhi_NCR,45546,28.638622,77.393931,0.579,True
+ATM_0106,Bank of Baroda,"Plot 345, Sector 43, Mumbai Metro",Mumbai,Mumbai_Metro,62841,19.103403,72.932207,0.329,True
+ATM_0107,Union Bank of India,"Plot 942, Sector 9, Bengaluru Tech",Bengaluru,Bengaluru_Tech,79127,13.00976,77.620656,0.907,True
+ATM_0108,State Bank of India,"Plot 86, Sector 42, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,65238,17.372389,78.517059,0.876,True
+ATM_0109,ICICI Bank,"Plot 52, Sector 17, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,59435,24.154874,86.781055,0.365,True
+ATM_0110,Canara Bank,"Plot 346, Sector 49, Mewat Region",Mewat,Mewat_Region,59384,27.965054,77.005895,0.787,True
+ATM_0111,Bank of Baroda,"Plot 259, Sector 6, Kolkata East",Kolkata,Kolkata_East,71119,22.683704,88.274271,0.784,True
+ATM_0112,State Bank of India,"Plot 975, Sector 23, Delhi NCR",Delhi,Delhi_NCR,39765,28.64684,77.13159,0.254,True
+ATM_0113,State Bank of India,"Plot 773, Sector 2, Mumbai Metro",Mumbai,Mumbai_Metro,42304,19.053347,72.92997,0.855,True
+ATM_0114,ICICI Bank,"Plot 245, Sector 9, Bengaluru Tech",Bengaluru,Bengaluru_Tech,71785,12.974171,77.55149,0.289,True
+ATM_0115,Axis Bank,"Plot 477, Sector 45, Hyderabad Cyber",Hyderabad,Hyderabad_Cyber,43885,17.356388,78.513884,0.488,True
+ATM_0116,HDFC Bank,"Plot 797, Sector 11, Jamtara Deoghar",Jamtara,Jamtara_Deoghar,50210,24.158271,86.817317,0.651,True
+ATM_0117,Punjab National Bank,"Plot 590, Sector 44, Mewat Region",Mewat,Mewat_Region,59506,28.003281,76.953085,0.934,True
+ATM_0118,Axis Bank,"Plot 78, Sector 38, Kolkata East",Kolkata,Kolkata_East,42204,22.675509,88.394328,0.744,True
+ATM_0119,Punjab National Bank,"Plot 871, Sector 44, Delhi NCR",Delhi,Delhi_NCR,26915,28.516693,77.21795,0.967,True
+ATM_0120,State Bank of India,"Plot 356, Sector 35, Mumbai Metro",Mumbai,Mumbai_Metro,65777,19.044234,72.918617,0.489,True
