@@ -3,7 +3,6 @@
 **Predictive Analytics Framework for Cybercrime Complaints to Forecast Likely Cash Withdrawal Locations in Advance**
 
 - **Domain**: Cybercrime Predictive Analytics & Spatial-Temporal Hotspot Intelligence
-- **Phase**: 1 - Modular Foundation & Architecture Setup
 
 ---
 
